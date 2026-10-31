@@ -190,8 +190,8 @@ public class LearnYourCapitalsController {
         alert.setTitle("Game confirmation");
         alert.setContentText("Game done! Total wrong guesses: " + game.getTotalGuesses());
         alert.show();
-        handleGoBack();
-        handleCloseOverlay();
+        handleGoBack(null);
+        handleCloseOverlay(null);
     }
 
     @FXML
