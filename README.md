@@ -4,7 +4,9 @@ A desktop quiz app for learning the capitals of the world, built with **Java** a
 
 I made it because I wanted to get better at capitals myself, so it is designed for *learning* rather than just testing: you can ask for hints letter by letter instead of getting stuck.
 
-![Screenshot of the game](docs/screenshot.png)
+![Screenshot of the game, start-page](docs/app1.png)
+![after chosen continent](docs/app2.png)
+![after making a username](docs/app3.png)
 
 ## Features
 
