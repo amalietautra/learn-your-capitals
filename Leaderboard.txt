@@ -1,0 +1,5 @@
+Europe;Amalie;89
+Europe;Emma;74
+Europe;Benjamin;46
+Europe;Haakon;60
+Europe;Gleb;56
